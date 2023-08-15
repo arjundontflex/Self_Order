@@ -1,0 +1,257 @@
+.welcomeChild {
+  position: absolute;
+  top: 487px;
+  left: 32px;
+  width: 356.02px;
+  height: 9.1px;
+}
+.restaurantLogoWithChefDrawIcon {
+  position: absolute;
+  top: 172px;
+  left: 97px;
+  width: 222px;
+  height: 176px;
+  object-fit: cover;
+}
+.r {
+  top: 16.68px;
+  left: 0;
+  display: inline-block;
+  width: 5.38px;
+  height: 11.8px;
+  transform: rotate(-26.85deg);
+  transform-origin: 0 0;
+}
+.e,
+.r,
+.s {
+  position: absolute;
+}
+.e {
+  top: 12.6px;
+  left: 8.37px;
+  display: inline-block;
+  width: 4.72px;
+  height: 11.77px;
+  transform: rotate(-23.22deg);
+  transform-origin: 0 0;
+}
+.s {
+  top: 9.29px;
+  left: 16.36px;
+  width: 5.41px;
+  height: 11.75px;
+  transform: rotate(-19.61deg);
+}
+.a,
+.s,
+.t {
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.t {
+  position: absolute;
+  top: 6.27px;
+  left: 25.23px;
+  width: 5.42px;
+  height: 11.72px;
+  transform: rotate(-15.87deg);
+}
+.a {
+  top: 3.82px;
+  left: 34.32px;
+  width: 6.11px;
+  height: 11.7px;
+  transform: rotate(-12deg);
+}
+.a,
+.a1,
+.r1,
+.u {
+  position: absolute;
+}
+.u {
+  top: 1.85px;
+  left: 44.25px;
+  display: inline-block;
+  width: 6.11px;
+  height: 11.69px;
+  transform: rotate(-7.99deg);
+  transform-origin: 0 0;
+}
+.a1,
+.r1 {
+  height: 11.68px;
+}
+.r1 {
+  top: 0.59px;
+  left: 54.28px;
+  display: inline-block;
+  width: 5.44px;
+  transform: rotate(-4.14deg);
+  transform-origin: 0 0;
+}
+.a1 {
+  top: 0.03px;
+  left: 63.71px;
+  width: 6.12px;
+  transform: rotate(-0.29deg);
+}
+.a1,
+.n,
+.t1 {
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.n {
+  position: absolute;
+  top: 0.11px;
+  left: 73.87px;
+  width: 6.8px;
+  height: 11.68px;
+  transform: rotate(3.85deg);
+}
+.t1 {
+  top: 1px;
+  left: 84.66px;
+  width: 5.43px;
+  height: 11.69px;
+  transform: rotate(7.85deg);
+}
+.b,
+.n1,
+.t1 {
+  position: absolute;
+}
+.b {
+  top: 2.42px;
+  left: 93.84px;
+  display: inline-block;
+  width: 2.04px;
+  height: 11.7px;
+  transform: rotate(10.85deg);
+  transform-origin: 0 0;
+}
+.n1 {
+  top: 3.58px;
+  left: 99.67px;
+  width: 6.78px;
+  height: 11.71px;
+  transform: rotate(14.15deg);
+}
+.a2,
+.m,
+.n1 {
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.a2 {
+  position: absolute;
+  top: 6.38px;
+  left: 110.12px;
+  width: 6.09px;
+  height: 11.74px;
+  transform: rotate(18.31deg);
+}
+.m {
+  top: 9.68px;
+  left: 119.72px;
+  width: 8.1px;
+  height: 11.77px;
+  transform: rotate(22.79deg);
+}
+.e1,
+.frame,
+.m {
+  position: absolute;
+}
+.e1 {
+  top: 14.56px;
+  left: 130.8px;
+  display: inline-block;
+  width: 4.71px;
+  height: 11.8px;
+  transform: rotate(27deg);
+  transform-origin: 0 0;
+}
+.frame {
+  top: 298px;
+  left: 148px;
+  width: 135px;
+  height: 27px;
+  color: var(--color-white);
+}
+.welcomeInner,
+.welcomeItem {
+  position: absolute;
+  top: 598px;
+  left: 15.29px;
+  border-radius: var(--br-18xl);
+  background-color: var(--color-indianred);
+  width: 421.72px;
+  height: 269.98px;
+  transform: rotate(13.34deg);
+  transform-origin: 0 0;
+}
+.welcomeInner {
+  top: -371px;
+  left: 55.26px;
+  width: 510.61px;
+  height: 394.7px;
+  transform: rotate(23.48deg);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 545px;
+  left: 149px;
+  border-radius: var(--br-2xl);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-indianred);
+  box-sizing: border-box;
+  width: 117px;
+  height: 42px;
+  cursor: pointer;
+}
+.getStarted {
+  position: absolute;
+  top: 556px;
+  left: 163px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  text-align: center;
+}
+.welcome1 {
+  color: var(--color-indianred);
+}
+.hungry,
+.welcomeToRestrauntContainer {
+  position: absolute;
+  display: inline-block;
+}
+.welcomeToRestrauntContainer {
+  top: 368px;
+  left: 16px;
+  font-size: var(--font-size-21xl);
+  width: 398px;
+}
+.hungry {
+  top: 506px;
+  left: 117px;
+  font-size: 20px;
+  letter-spacing: 0.41em;
+  text-align: center;
+  width: 187px;
+  height: 32px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.welcome {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 736px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

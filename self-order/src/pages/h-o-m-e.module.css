@@ -1,0 +1,351 @@
+.homeChild,
+.homeChild1,
+.homeInner,
+.homeItem,
+.rectangleDiv {
+  position: absolute;
+  top: 200px;
+  left: 32px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 116px;
+  height: 118px;
+}
+.homeChild1,
+.homeInner,
+.homeItem,
+.rectangleDiv {
+  top: 375px;
+}
+.homeChild1,
+.homeInner,
+.rectangleDiv {
+  top: 562px;
+}
+.homeChild1,
+.rectangleDiv {
+  top: 375px;
+  left: 260px;
+}
+.homeChild1 {
+  top: 562px;
+}
+.offer1Icon {
+  position: absolute;
+  top: 198px;
+  left: 29px;
+  border-radius: var(--br-3xl);
+  width: 122px;
+  height: 122px;
+  object-fit: cover;
+}
+.homeChild2 {
+  position: absolute;
+  top: 200px;
+  left: 260px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 116px;
+  height: 118px;
+}
+.restaurantLogoWithChefDrawIcon {
+  position: absolute;
+  top: 0;
+  left: 84px;
+  width: 222px;
+  height: 176px;
+  object-fit: cover;
+}
+.r {
+  position: absolute;
+  top: 16.68px;
+  left: 0;
+  width: 5.38px;
+  height: 11.8px;
+  transform: rotate(-26.85deg);
+}
+.e,
+.r,
+.s {
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.e {
+  position: absolute;
+  top: 12.6px;
+  left: 8.37px;
+  width: 4.72px;
+  height: 11.77px;
+  transform: rotate(-23.22deg);
+}
+.s {
+  top: 9.29px;
+  left: 16.36px;
+  width: 5.41px;
+  height: 11.75px;
+  transform: rotate(-19.61deg);
+}
+.a,
+.s,
+.t {
+  position: absolute;
+}
+.t {
+  top: 6.27px;
+  left: 25.23px;
+  display: inline-block;
+  width: 5.42px;
+  height: 11.72px;
+  transform: rotate(-15.87deg);
+  transform-origin: 0 0;
+}
+.a {
+  top: 3.82px;
+  left: 34.32px;
+  width: 6.11px;
+  height: 11.7px;
+  transform: rotate(-12deg);
+}
+.a,
+.r1,
+.u {
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.u {
+  position: absolute;
+  top: 1.85px;
+  left: 44.25px;
+  width: 6.11px;
+  height: 11.69px;
+  transform: rotate(-7.99deg);
+}
+.r1 {
+  top: 0.59px;
+  left: 54.28px;
+  width: 5.44px;
+  transform: rotate(-4.14deg);
+}
+.a1,
+.n,
+.r1 {
+  position: absolute;
+  height: 11.68px;
+}
+.a1 {
+  top: 0.03px;
+  left: 63.71px;
+  display: inline-block;
+  width: 6.12px;
+  transform: rotate(-0.29deg);
+  transform-origin: 0 0;
+}
+.n {
+  top: 0.11px;
+  left: 73.87px;
+  width: 6.8px;
+  transform: rotate(3.85deg);
+}
+.b,
+.n,
+.t1 {
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.t1 {
+  position: absolute;
+  top: 1px;
+  left: 84.66px;
+  width: 5.43px;
+  height: 11.69px;
+  transform: rotate(7.85deg);
+}
+.b {
+  top: 2.42px;
+  left: 93.84px;
+  width: 2.04px;
+  height: 11.7px;
+  transform: rotate(10.85deg);
+}
+.a2,
+.b,
+.n1 {
+  position: absolute;
+}
+.n1 {
+  top: 3.58px;
+  left: 99.67px;
+  display: inline-block;
+  width: 6.78px;
+  height: 11.71px;
+  transform: rotate(14.15deg);
+  transform-origin: 0 0;
+}
+.a2 {
+  top: 6.38px;
+  left: 110.12px;
+  width: 6.09px;
+  height: 11.74px;
+  transform: rotate(18.31deg);
+}
+.a2,
+.e1,
+.m {
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.m {
+  position: absolute;
+  top: 9.68px;
+  left: 119.72px;
+  width: 8.1px;
+  height: 11.77px;
+  transform: rotate(22.79deg);
+}
+.e1 {
+  top: 14.56px;
+  left: 130.8px;
+  width: 4.71px;
+  height: 11.8px;
+  transform: rotate(27deg);
+}
+.e1,
+.frame,
+.lineDiv {
+  position: absolute;
+}
+.frame {
+  top: 126px;
+  left: 135px;
+  width: 135px;
+  height: 27px;
+  font-size: var(--font-size-xs);
+}
+.lineDiv {
+  top: 189px;
+  left: 207px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-right: 8px solid var(--color-snow);
+  box-sizing: border-box;
+  width: 8px;
+  height: 505px;
+}
+.offers {
+  position: absolute;
+  top: 318px;
+  left: 53px;
+  display: inline-block;
+  width: 116px;
+  height: 35px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.beverages,
+.desserts,
+.mainCourse,
+.snacks,
+.starters {
+  position: absolute;
+  top: 680px;
+  left: 258px;
+  display: inline-block;
+  width: 144px;
+  height: 35px;
+}
+.desserts,
+.mainCourse,
+.snacks,
+.starters {
+  left: 39px;
+  width: 116px;
+}
+.mainCourse,
+.snacks,
+.starters {
+  top: 493px;
+  left: 236px;
+  width: 167px;
+}
+.snacks,
+.starters {
+  left: 45px;
+  width: 116px;
+}
+.starters {
+  top: 318px;
+  left: 270px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.friedMashedPotatoBallsDinnIcon {
+  position: absolute;
+  top: 195px;
+  left: 260px;
+  border-radius: var(--br-3xl);
+  width: 116px;
+  height: 125px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.bev1Icon,
+.dess1Icon,
+.indianLunchDinnerMainCoursIcon,
+.samosaRecipe1Icon {
+  position: absolute;
+  top: 373px;
+  left: 32px;
+  border-radius: var(--br-3xl);
+  width: 116px;
+  height: 121.52px;
+  object-fit: cover;
+}
+.bev1Icon,
+.dess1Icon,
+.indianLunchDinnerMainCoursIcon {
+  top: 368px;
+  left: 260px;
+  height: 126.55px;
+}
+.bev1Icon,
+.dess1Icon {
+  top: 562px;
+  left: 32px;
+  height: 118px;
+}
+.bev1Icon {
+  top: 560px;
+  left: 259px;
+  width: 118px;
+  height: 122px;
+  cursor: pointer;
+}
+.homeChild3,
+.homeChild4 {
+  position: absolute;
+  top: -48px;
+  left: 31.59px;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-white);
+  width: 84px;
+  height: 139px;
+  transform: rotate(34.93deg);
+  transform-origin: 0 0;
+}
+.homeChild4 {
+  top: 6.1px;
+  left: 323px;
+  transform: rotate(-34.93deg);
+}
+.home {
+  position: relative;
+  background-color: var(--color-indianred);
+  width: 100%;
+  height: 736px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

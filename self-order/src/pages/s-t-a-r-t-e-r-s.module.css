@@ -1,0 +1,336 @@
+.restaurantLogoWithChefDrawIcon {
+  position: absolute;
+  top: 0;
+  left: 130px;
+  width: 158px;
+  height: 114px;
+  object-fit: cover;
+}
+.a,
+.a1,
+.a2,
+.b,
+.e,
+.e1,
+.m,
+.n,
+.n1,
+.r,
+.r1,
+.s,
+.t,
+.t1,
+.u {
+  position: absolute;
+  top: 10.81px;
+  left: 0;
+  display: inline-block;
+  width: 3.75px;
+  height: 7.82px;
+  transform: rotate(-24.87deg);
+  transform-origin: 0 0;
+}
+.a,
+.a1,
+.a2,
+.b,
+.e,
+.e1,
+.m,
+.n,
+.n1,
+.r1,
+.s,
+.t,
+.t1,
+.u {
+  top: 8.16px;
+  left: 5.92px;
+  width: 3.3px;
+  height: 7.76px;
+  transform: rotate(-21.45deg);
+}
+.a,
+.a1,
+.a2,
+.b,
+.e1,
+.m,
+.n,
+.n1,
+.r1,
+.s,
+.t,
+.t1,
+.u {
+  top: 6.02px;
+  left: 11.58px;
+  width: 3.79px;
+  height: 7.71px;
+  transform: rotate(-18.07deg);
+}
+.a,
+.a1,
+.a2,
+.b,
+.e1,
+.m,
+.n,
+.n1,
+.r1,
+.t,
+.t1,
+.u {
+  top: 4.06px;
+  left: 17.85px;
+  width: 3.81px;
+  height: 7.66px;
+  transform: rotate(-14.59deg);
+}
+.a,
+.a1,
+.a2,
+.b,
+.e1,
+.m,
+.n,
+.n1,
+.r1,
+.t1,
+.u {
+  top: 2.47px;
+  left: 24.28px;
+  width: 4.3px;
+  height: 7.62px;
+  transform: rotate(-11.01deg);
+}
+.a1,
+.a2,
+.b,
+.e1,
+.m,
+.n,
+.n1,
+.r1,
+.t1,
+.u {
+  top: 1.2px;
+  left: 31.31px;
+  width: 4.32px;
+  height: 7.59px;
+  transform: rotate(-7.32deg);
+}
+.a1,
+.a2,
+.b,
+.e1,
+.m,
+.n,
+.n1,
+.r1,
+.t1 {
+  top: 0.38px;
+  left: 38.41px;
+  width: 3.85px;
+  height: 7.57px;
+  transform: rotate(-3.79deg);
+}
+.a1,
+.a2,
+.b,
+.e1,
+.m,
+.n,
+.n1,
+.t1 {
+  top: 0.02px;
+  left: 45.07px;
+  width: 4.33px;
+  height: 7.56px;
+  transform: rotate(-0.26deg);
+}
+.a2,
+.b,
+.e1,
+.m,
+.n,
+.n1,
+.t1 {
+  top: 0.07px;
+  left: 52.27px;
+  width: 4.81px;
+  height: 7.57px;
+  transform: rotate(3.53deg);
+}
+.a2,
+.b,
+.e1,
+.m,
+.n1,
+.t1 {
+  top: 0.65px;
+  left: 59.9px;
+  width: 3.84px;
+  height: 7.59px;
+  transform: rotate(7.19deg);
+}
+.a2,
+.b,
+.e1,
+.m,
+.n1 {
+  top: 1.57px;
+  left: 66.4px;
+  width: 1.44px;
+  height: 7.61px;
+  transform: rotate(9.95deg);
+}
+.a2,
+.e1,
+.m,
+.n1 {
+  top: 2.32px;
+  left: 70.52px;
+  width: 4.77px;
+  height: 7.64px;
+  transform: rotate(12.99deg);
+}
+.a2,
+.e1,
+.m {
+  top: 4.13px;
+  left: 77.91px;
+  width: 4.27px;
+  height: 7.69px;
+  transform: rotate(16.86deg);
+}
+.e1,
+.m {
+  top: 6.27px;
+  left: 84.71px;
+  width: 5.66px;
+  height: 7.75px;
+  transform: rotate(21.04deg);
+}
+.e1 {
+  top: 9.43px;
+  left: 92.54px;
+  width: 3.28px;
+  height: 7.82px;
+  transform: rotate(25deg);
+}
+.frame,
+.startersChild {
+  position: absolute;
+  top: 81.61px;
+  left: 166.55px;
+  width: 95.51px;
+  height: 17.49px;
+}
+.startersChild {
+  top: 191px;
+  left: 14px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 8px solid var(--color-snow);
+  box-sizing: border-box;
+  width: 386px;
+  height: 8px;
+}
+.frameChild,
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-gainsboro);
+  width: 372px;
+  height: 276px;
+}
+.frameInner,
+.frameItem {
+  top: 317px;
+}
+.frameInner {
+  top: 646px;
+  left: 0;
+}
+.rectangleParent,
+.startersInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 922px;
+}
+.startersInner {
+  top: 214px;
+  left: 21px;
+  height: 522px;
+  overflow-y: auto;
+}
+.hungryOrderNow {
+  position: absolute;
+  top: 133px;
+  left: 44px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 382px;
+  height: 61px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 3px #000;
+}
+.startersItem {
+  position: absolute;
+  top: 33px;
+  left: 315px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 88px;
+  height: 41px;
+  cursor: pointer;
+}
+.goBack {
+  position: absolute;
+  top: 42px;
+  left: 326px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  color: var(--color-black);
+  width: 74px;
+  height: 29px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 33px;
+  left: 13px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 49px;
+  height: 50px;
+}
+.pngegg1Icon {
+  position: absolute;
+  top: 38px;
+  left: 19px;
+  width: 36px;
+  height: 39px;
+  object-fit: cover;
+}
+.starters {
+  position: relative;
+  background-color: var(--color-indianred);
+  width: 100%;
+  height: 736px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
